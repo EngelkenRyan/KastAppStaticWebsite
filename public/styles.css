@@ -1,0 +1,148 @@
+
+
+.background1{
+    background: url("https://www.kastapp.co/images/gradient-violet-bg.jpg")
+}
+
+.background2{
+    background-color: white;
+}
+
+.KastLogo img{
+    width: 200px;
+    height: 200px;
+    margin-top: -65px;
+    margin-left: 10px;
+}
+
+nav {
+    float: right;
+    padding-right: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 8px;
+    overflow: hidden;
+    text-decoration: none;
+    margin-top: -115px;
+    margin-left: -15%;
+}
+
+nav li{
+    display: inline-block;
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+  padding: 4px 40px 4px 4px;
+  font-weight: 500;
+  font-size: 1em;
+}
+/* 
+.titlebar{
+    color: white; 
+    font-size: 19px; 
+    word-spacing: 30px;
+    position: absolute;
+    margin-left: 65%;
+    margin-top: -110px;
+
+} */
+
+.buttonOpen{
+    position: absolute;
+    right: 15px;
+    top: 66px;
+    color: white;
+    margin-top: -35px;
+    border: 1px;
+    border-style: solid;
+    background-color: transparent;
+    font-size: 14px;
+    letter-spacing: 1px;
+
+}
+
+.Laptop img{
+    max-width: 610px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 110px;
+    margin-bottom: 20px;
+}
+
+.Header{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.body{
+    text-align:center;
+    font-size: 22px;
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+    width: 550px;
+    margin-bottom: 30px;
+}
+
+.buttonKast{
+    position: relative;
+    color: white;
+    background-color: orange;
+    text-align: center;
+    margin-left: 43%; 
+    width: 210px;
+    height: 40px;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-bottom: 5%;
+}
+
+#featured-content {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    text-align: center;
+    padding: 40px;
+    font-size: 1.2em;
+}
+
+#featured p:last-child{
+    text-align: right;
+    margin-right: 100px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}
+
+.grid-item {
+    padding: 40px;
+    text-align: center;
+}
+
+.Featured{
+    text-align: center;
+    margin-top: 105px;
+    font-size: 24px;
+    margin-bottom: 4%;
+}
+
+.review{
+    font-style: italic;
+    text-align: center;
+    font-size: 21px;
+    margin-top: 80px;
+    margin-bottom: 5%;
+}
